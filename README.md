@@ -1,16 +1,6 @@
 # untitled
 
-A new Flutter project.
+A new Flutter project this app was builded for farmers for acccessing the customer directly.
+![image alter](https://github.com/SadatPro/Amader-bazar/blob/ed9cf7a2af0bd76bb1be0256b2f39e1e6b1be80a/Screenshot%202024-11-08%20000135.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
